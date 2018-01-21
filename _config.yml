@@ -16,7 +16,7 @@
 baseurl: /
 title: 百事通
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  百事通
 
 nav_lists:
   - titles:
