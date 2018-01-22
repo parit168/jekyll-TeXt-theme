@@ -15,8 +15,8 @@
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: 百事通
-description: > #this means to ignore newlines until "nav_lists:"
-  百事通
+description: 百事通 > #this means to ignore newlines until "nav_lists:"
+  
 
 nav_lists:
   - titles:
@@ -43,12 +43,12 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: 乔伊
-   email: parit@sina.com  #your Email address e.g. someone@site.com
+  email: parit@sina.com  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-   github: parit168 #your GitHub username
+  github: parit168 #your GitHub username
   # googleplus:  #your Google+ username
-   weibo: 1367444911 #your Weibo username
+  weibo: 1367444911 #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
 
